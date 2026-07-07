@@ -13,7 +13,7 @@ kept without baseline removal and stabilised through a z-score scale floor. This
 base-level offset that arises because the target network is combined whereas the SWMM model is
 configured as storm-only.
 
-<img width="1535" height="591" alt="Graphical abstract_1" src="https://github.com/user-attachments/assets/697311ee-4ba4-4920-82dd-2c2c122b5417" />
+<img width="1535" height="591" alt="Graphical Abstract" src="https://github.com/user-attachments/assets/d35c37be-ecfb-4556-876c-55c328e7ea89" />
 
 ## Code Structure
 
